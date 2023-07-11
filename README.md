@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @LSK30
+- 👋 Hi, I am Landa Shasi Kumar
 - 👀 I’m interested in Data Science 
-- 📫 Reach me through 📧Mail &  Discord 
 
 <!---
 LSK30/LSK30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
