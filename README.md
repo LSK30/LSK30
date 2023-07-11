@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
       {{ with $person.education }}
       <div class="col-md-7">
-        <h3>{{ i18n "education" | markdownify }}</h3>
+        <h3>{{ i18n "education" | markdown }}</h3>
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
           <li>
